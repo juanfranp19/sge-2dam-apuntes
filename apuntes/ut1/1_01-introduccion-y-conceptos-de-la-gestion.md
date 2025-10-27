@@ -87,9 +87,41 @@ Para hacer bien ese trabajo necesitas **entender el mapa:** qué áreas hay, có
 
 ## 5) Un caso sencillo (historia guiada)
 
+"Ada" dirige una pequeña empresa de desarrollo. Detecta que un cliente **no tiene** sistema de gestión integral. Antes de programar nada, Ada pide a su equipo:
+
+1. **Revisar conceptos básicos** de gestión.
+2. **Explorar el mercado**: ¿qué ERPs/CRMs existen?, ¿libres, de pago?, ¿qué requieren?
+3. **Valorar la implantación**: coste, tiempo, curva de aprendizaje.
+
 ## 6) Conceptos clave, aclarados sin jerga
+
+- **Proceso de negocio**: secuencia de pasos para lograr un resultado ("de pedido a cobro")
+- **Documento comercial**: entidades con valor legal o de registro (pedido, albarán, factura).
+- **Integración**: que los sistemas compartan datos y eventos **sin duplicados**.
+- **Trazabilidad**: seguir un "rastro" desde el origen al final (pedido --> albarán --> factura --> cobro).
+- **DATO ÚNICO**: principio de no duplicación de información maestra (clientes, productos, etc.).
 
 ## 7) ¿Qué problemas resuelven ERP y CRM en el día a día?
 
+- **Evitar islas de información**: el Excel de ventas no coincide con el de almacén.
+- **Acelerar tareas repetitivas**: facturar 200 pedidos sin "picar" datos.
+- **Mejorar la atención al cliente**: ver el historial antes de responder.
+- **Controlar el negocio**: paneles con KPIs (ventas por día, rotación de stock, margen...).
 
+> Advertencia
+
+> Un ERP/CRM **no es magia**. Si los procesos están mal definidos, el sistema solo **automatiza el caos**. Primero se ordena el proceso, luego se digitaliza.
+
+## 8) Mini-práctica mental
+
+Toma cualquier comercio que conozcas (una librería, por ejemplo) y describe en voz alta:
+
+1. Entrada: ¿cómo llega un pedido? (web, teléfono, en persona).
+2. Registro: ¿dónde se apuntan los datos del pedido?
+3. Stock: ¿cómo se comprueba si hay existencias?
+4. Documento: ¿se genera albarán/factura automáticamente?
+5. Cobro: ¿cuándo y cómo se registra?
+6. Seguimiento: ¿qué informe quiero al final del día?
+
+## 9) Buenas prácticas desde el rol DAM
 
